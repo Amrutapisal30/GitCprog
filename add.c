@@ -9,4 +9,6 @@ main()
 	
 	c=a+b;
 	printf("\n add=%d",c);
+	printf("hello c ");
+	printf("hello  world ");
 }
