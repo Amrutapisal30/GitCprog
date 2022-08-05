@@ -32,6 +32,7 @@ main()
 	cout<<"\n area of rectagle= "<<r1.rectarea();
 	Rectangle r2(7,8);
 	cout<<"\n area of rectagle= "<<r2.rectarea();
+	cout<<"area of circle";
 	
 	
 }
